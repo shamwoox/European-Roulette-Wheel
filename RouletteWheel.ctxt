@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RouletteWheel()
+comment1.params=numberIn
+comment1.target=void\ setNumber(int)
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+numComments=3
